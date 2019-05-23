@@ -1,7 +1,8 @@
 # phporm
 A php library to map database tables to php objects and perform crud operations via model instance.
 
-Much like <b>Laravel</b> or <b>Slim</b> but i feel its more <b><i>friendly, editable</i></b> & <b><i>lighter</i></b> especially for building backend apis for different services e.g android as the main intention for collecting the codes to the orm scripts collection , codes in the file are a collection of codes form different sources and some are my own work. 
+Much like <b>Laravel</b> or <b>Slim</b> but i feel its more <b><i>friendly, editable</i></b> & <b><i>lighter</i></b> especially for building backend apis for different services e.g android backend apis was as the main intention for collecting the codes to form the orm & php scripts collection.<br> 
+The codes used in dome of the files are a collection of codes form different sources and some are my own work. 
 
 <b>1.</b> You can study the DBObject.php to understand the core working of the Mapper
 
